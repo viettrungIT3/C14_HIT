@@ -1,0 +1,10 @@
+Problem name: expl
+Maximize
+obj: 	 x1 + 2 x2 + 3 x3 + x4
+subject To
+c1: x2 - 3.5 x4 = 0
+Bounds
+0 <= x1 <= 40
+General
+	x4
+End
